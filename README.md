@@ -106,6 +106,7 @@ end
 ```
 
 # Program
+```
 
 import time
 
@@ -299,6 +300,7 @@ class Game:
      if __name__ == "__main__":
        main()
    ```
+```
 <h2>Sample Input and Output</h2>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/6b668685-8bcc-43c5-b5c2-ddd43f3da84a)
